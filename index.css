@@ -1,0 +1,193 @@
+#heading{
+	font-weight: bolder;
+	background: white;
+	color: #f2f2f2;
+	font-size: 50px;
+	text-align: center;
+	text-decoration: underline;
+    background-image: linear-gradient(to right, #16a687, #00a697, #00a6a4, #19a5ae, #35a3b6, #36a1bb, #3b9fc0, #439cc3, #3a98c8, #3693cd, #398dd0, #4287d3);}
+body{
+	background-image:linear-gradient(to right, #16a687, #00a697, #00a6a4, #19a5ae, #35a3b6, #36a1bb, #3b9fc0, #439cc3, #3a98c8, #3693cd, #398dd0, #4287d3); ;
+    word-spacing: 5px;}
+.ques1{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.ques2{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.ques3{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.ques4{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.ques5 {
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.malware {
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.typmalw{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.ransomware{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;
+}
+.filesmal{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.spyware{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.adware{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.trojan{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.worm{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.rootkit{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.keylog{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.bots{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.mobmal{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.prevmall{
+	color: black;
+	text-decoration: none;
+	font-size: 30px;	
+}
+.ques1:hover{padding: 10px;
+	transform: scaleY(1.2);
+	background-color: whitesmoke;
+text-decoration-line: none;}
+.ques2:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.ques3:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.ques4:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.ques5:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.malware:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.typmalw:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.ransomware:hover{padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;}
+.filesmal :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.spyware :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.adware :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.trojan :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.worm :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.rootkit :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.keylog :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.bots :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.mobmal :hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}
+.prevmall:hover{
+	padding: 10px;
+	background-color: whitesmoke;
+	transform: scaleY(1.2);
+text-decoration-line: none;
+}

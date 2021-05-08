@@ -1,0 +1,22 @@
+
+table,th,td
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+}
+head,body{
+    word-spacing: 5px;
+    background-color: salmon;
+}
+footer{
+    text-align: center;
+}
